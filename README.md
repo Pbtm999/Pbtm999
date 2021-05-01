@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World! I´m Pedro Batista 👋
+### I'm a Student and a Junior-developer!
 
 <!--
 **Pbtm999/Pbtm999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
