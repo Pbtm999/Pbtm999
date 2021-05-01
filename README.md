@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro - aka [Pbtm] 👋
 
-[![TWITCH](https://img.shields.io/twitch/status/pbtmpt?color=%239146FF&logo=twitch&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![TWITCH](https://img.shields.io/twitch/status/pbtmpt?color=%239146FF&logo=twitch&style=for-the-badge&url=https%3A%2F%2www.twitch.tv/pbtmpt)](https://www.twitch.tv/pbtmpt)
 [![Discord Shield](https://img.shields.io/discord/767819803447656448?color=red&label=Discord&logo=discord&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg)](https://discord.gg/SQ7DFHkZ6f)
 
 ## I'm a Student and a Junior-Developer!!
@@ -30,7 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-[website]: https://codeSTACKr.com
+[website]: https://www.twitch.tv/pbtmpt
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
