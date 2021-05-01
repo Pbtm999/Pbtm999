@@ -5,11 +5,10 @@
 
 ## I'm a Student and a Junior-Developer!!
 
-- 🔭 
-- 🌱 
-- 👯 
-- 🥅 2020 Goals: 
-- ⚡ Fun fact: 
+- 🔭 I´m learning everything!
+- 👯 I´m currectly developing Fivem scripts!
+- 🥅 2020 Goals: Learn back-end and UI/Ux!
+- ⚡ I love play Fivem!
 
 ### Connect with me:
 
