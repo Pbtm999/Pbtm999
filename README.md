@@ -1,7 +1,7 @@
 ### Hi there, I'm Pedro - aka [Pbtm] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-![Discord Shield](https://discordapp.com/api/guilds/[767819803447656448]/widget.png?style=shield)
+![Discord Shield](https://discordapp.com/api/guilds/767819803447656448/widget.png?style=shield&url=https://discord.gg/3wvPex36fT)
 
 ## I'm a Student and a Junior-Developer!!
 
