@@ -7,7 +7,7 @@
 
 - 🔭 I´m learning everything!
 - 👯 I´m currectly developing Fivem scripts!
-- 🥅 2020 Goals: Learn back-end and UI/Ux!
+- 🥅 2021 Goals: Learn back-end and UI/Ux!
 - ⚡ I love play Fivem!
 
 ### Connect with me:
