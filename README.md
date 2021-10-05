@@ -27,4 +27,4 @@
 [youtube]: https://www.youtube.com/channel/UCRpmJS54IRzINnPfGtyjAQg
 [instagram]: https://www.instagram.com/_pedro_wp9
   
-![Snake animation](https://github.com/rafaelaballerini/rafaelaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
