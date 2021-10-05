@@ -26,3 +26,7 @@
 [website]: https://www.twitch.tv/pbtmpt
 [youtube]: https://www.youtube.com/channel/UCRpmJS54IRzINnPfGtyjAQg
 [instagram]: https://www.instagram.com/_pedro_wp9
+  
+<div> 
+  ![Snake animation](https://github.com/Pbtm999/Pbtm999/blob/output/github-contribution-grid-snake.svg)
+</div>
