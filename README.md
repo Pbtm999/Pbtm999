@@ -1,4 +1,4 @@
-### Hi there, I'm Pedro - aka [Pbtm] 👋
+### Hi there, I'm Pbtm - aka [Pedro] 👋
 ## I'm a Student Developer!! 🐌
 
 <div align="left">
