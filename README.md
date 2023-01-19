@@ -1,5 +1,5 @@
 ### Hi there, I'm Pbtm - aka [Pedro] 👋
-## I'm a Student Developer at Portugal!! 🐌
+## I'm a Student Developer at Portugal!! FCUP (Computer Science) 🐌
 
 <div align="left">
   <a href="https://github.com/Pbtm999">
