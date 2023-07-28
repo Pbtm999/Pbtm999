@@ -26,4 +26,3 @@
   
 [website]: https://www.twitch.tv/pbtmpt
 [youtube]: https://www.youtube.com/channel/UCRpmJS54IRzINnPfGtyjAQg
-[instagram]: https://www.instagram.com/_pedro_wp9
