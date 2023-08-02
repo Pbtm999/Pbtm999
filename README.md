@@ -18,11 +18,8 @@ struct pbtm_aboutme = {
     <a href="https://github.com/Pbtm999">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Pbtm999&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <a href="https://github.com/Pbtm999">
-    <img src="https://i.imgur.com/JXQvENw.png" height=50 width=150 /> <!--invisible-->
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pbtm999&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=compact"/>
 </div>
-
-![visual-studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=plastic&logo=visual-studio)
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-2A7BA0?style=plastic&logo=instagram)](https://www.instagram.com/pedro.b9_/)
@@ -36,3 +33,4 @@ struct pbtm_aboutme = {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman)
 ![visual-studio-code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=plastic&logo=visual-studio-code)
+![visual-studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=plastic&logo=visual-studio)
