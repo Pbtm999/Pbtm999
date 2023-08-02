@@ -9,7 +9,7 @@ struct pbtm_aboutme = {
   char profession[] = "Currently studing Computer Science";
   char *canuse[] = {"C","Lua","Javascript"};
 
-  char *hobbys[] = {"Sports", "Maths", "Fivem Dev"}
+  char *hobbys[] = {"Sports", "Maths", "Fivem Dev"};
 }
 ```
 ### I love all about the computers and the science behind them, im more into software engineering, but i would love to learn more about security and data science.
