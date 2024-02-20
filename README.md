@@ -7,7 +7,7 @@ struct pbtm_aboutme = {
   char country[] = "Portugal";
 
   char profession[] = "Currently studing Computer Science";
-  char *canuse[] = {"C","Lua","Python","Javascript","Java","CSS","HTML"};
+  char *canuse[] = {"C","Lua","Python","Javascript","Java","Haskell","CSS","HTML"};
 
   char *hobbys[] = {"Sports", "Maths", "Fivem Dev"};
 }
