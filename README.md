@@ -17,8 +17,6 @@ struct pbtm_aboutme = {
 <div>
     <a href="https://github.com/Pbtm999">
     <img align="center" height="180em" src="https://github-readme-stats-eight-orcin-18.vercel.app/api?username=Pbtm999&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <a href="https://github.com/Pbtm999">
-    <img align="center" height="180em" src="https://github-readme-stats-eight-orcin-18.vercel.app/api/top-langs/?username=Pbtm999&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=compact"/>
 </div>
 
 ## Connect with me:
