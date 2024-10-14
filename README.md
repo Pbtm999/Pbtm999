@@ -23,7 +23,6 @@ struct pbtm_aboutme = {
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-2A7BA0?style=plastic&logo=instagram)](https://www.instagram.com/pedro.b9_/)
-[![Twitter](https://img.shields.io/badge/-Twitter-2A7BA0?style=plastic&logo=twitter)](https://twitter.com/pedroWP9)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-F7DF1E?style=plastic&logo=python)
