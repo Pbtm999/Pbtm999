@@ -3,11 +3,11 @@
 ```C
 struct pbtm_aboutme = {
   char name[] = "Pbtm";
-  int age = 19;
+  int age = 21;
   char country[] = "Portugal";
 
   char profession[] = "Currently studing Computer Science";
-  char *canuse[] = {"C","Lua","Python","Javascript","Java","Haskell","CSS","HTML"};
+  char *canuse[] = {"C","Lua","Python","Javascript","TypeScript","Java","Haskell","CSS","HTML"};
 
   char *hobbys[] = {"Sports", "Maths", "Fivem Dev"};
 }
