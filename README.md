@@ -7,22 +7,12 @@ struct pbtm_aboutme = {
   char country[] = "Portugal";
 
   char profession[] = "Currently studing Computer Science";
-  char *canuse[] = {"C","Lua","Python","Javascript","TypeScript","Java","Haskell","CSS","HTML"};
+  char *canuse[] = {"C","Lua","Python","Javascript","TypeScript","Java","Haskell","CSS","HTML","Tailwind"};
 
-  char *hobbys[] = {"Sports", "Maths", "Fivem Dev"};
+  char *hobbys[] = {"Sports", "Maths", "Coding"};
 }
 ```
 ### I love all about the computers and the science behind them, im more into software engineering, but i would love to learn more about security and data science
-
-<div>
-    <a href="https://github.com/Pbtm999">
-    <img align="center" height="180em" src="https://github-readme-stats-eight-orcin-18.vercel.app/api?username=Pbtm999&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-      <a href="https://github.com/Pbtm999">
-     <img align="center" height="180em" src="https://github-readme-stats-eight-orcin-18.vercel.app/api/top-langs/?username=Pbtm999&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=compact"/>
-</div>
-
-## Connect with me:
-[![Instagram](https://img.shields.io/badge/-Instagram-2A7BA0?style=plastic&logo=instagram)](https://www.instagram.com/pedro.b9_/)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-F7DF1E?style=plastic&logo=python)
