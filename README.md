@@ -6,11 +6,17 @@ struct pbtm_aboutme = {
   int age = 21;
   char country[] = "Portugal";
 
-  char profession[] = "Currently studing Computer Science";
-  char *canuse[] = {"C","Lua","Python","Javascript","TypeScript","Java","Haskell","CSS","HTML","Tailwind"};
+  char profession[] = "Currently studying Computer Science";
+  char *canuse[] = {
+    "C", "Lua", "Python", "JavaScript", "TypeScript", "Java", 
+    "Haskell", "CSS", "HTML", "Tailwind CSS", "React.js", 
+    "Node.js", "SQL", "Kotlin", "Assembly"
+  };
 
-  char *hobbys[] = {"Sports", "Maths", "Coding"};
-}
+  char *hobbies[] = {
+    "Water Polo", "Physics", "Electronics / Circuits", "Programming", "Maths"
+  };
+};
 ```
 ### I love all about the computers and the science behind them, im more into software engineering, but i would love to learn more about security and data science
 
