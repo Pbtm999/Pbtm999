@@ -51,7 +51,7 @@ Mobile video streaming platform composed of an Android client, Java backend and 
 
 `Kotlin` · `Java` · `Jetpack Compose` · `HLS` · `Nginx` · `MariaDB`
 
-[View project](https://github.com/Pbtm999/Zetflix-Platform)
+[View project](https://github.com/Pbtm999/Zetflix)
 
 ### 🎮 FourGame AI
 Connect Four environment used to implement and compare adversarial search algorithms.
@@ -65,7 +65,7 @@ Decision Tree classifier implemented from scratch using entropy, Information Gai
 
 `Python` · `ID3` · `Decision Trees` · `Information Gain`
 
-[View project](https://github.com/Pbtm999/Decision-Trees-ID3)
+[View project](https://github.com/Pbtm999/ID3-Decision-Trees)
 
 ---
 
